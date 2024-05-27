@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mubarakhusain
-- 📫 How to reach me mubarakshaikh.contact1@gmail.com
+- 👋 Hi, I’m @mubarak
+- 📫 How to reach me mubarakshaikh.contact@gmail.com
 
 <!---
 mubarakhusain/mubarakhusain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
